@@ -1,0 +1,25 @@
+*{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  font-family: 'Abril Fatface', cursive;
+}
+
+.bio{
+  display:block;
+  width:50vw;
+}
+
+.row.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+.row.no-gutters > [class^="col-"],
+.row.no-gutters > [class*=" col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.navbar{
+  padding-bottom:10px;
